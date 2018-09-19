@@ -6,7 +6,7 @@ The analytical solution and the scaling factor can be found in the following ref
 ## Reference
 Please cite the following reference if you use this code in your study:
 
-Hong‐Hsi Lee, Daniel K. Sodickson, Riccardo Lattanzi [An analytic expression for the ultimate intrinsic SNR in a uniform sphere](https://doi.org/10.1002/mrm.27207), Magnetic Resonance in Medicine 2018
+Hong‐Hsi Lee, Daniel K. Sodickson, Riccardo Lattanzi. [An analytic expression for the ultimate intrinsic SNR in a uniform sphere](https://doi.org/10.1002/mrm.27207), Magnetic Resonance in Medicine, 2018
 
 ## Authors
 Hong-Hsi Lee - [our page](http://www.diffusion-mri.com/people/hong-hsi-lee)
