@@ -10,7 +10,9 @@ Hong‐Hsi Lee, Daniel K. Sodickson, Riccardo Lattanzi. [An analytic expression 
 
 ## Authors
 [Hong-Hsi Lee](http://www.diffusion-mri.com/people/hong-hsi-lee)
+
 Daniel K. Sodickson
+
 Riccardo Lattanzi
 
 ## License
